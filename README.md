@@ -1,11 +1,5 @@
 ## Olá me chamo Anderson
 <div>
-<a href="https://www.linkedin.com/in/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=admiravel&theme=cobalt" />
-</a>
-<a href="https://www.linkedin.com/in/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=admiravel&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
-</a>
   <div>
     <br>
   </div>
